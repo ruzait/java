@@ -54,7 +54,7 @@ public class HelloWorld {
    ```
    javac HelloWorld.java
    ```
-   >>> This command generates a HelloWorld.class file if there are no errors.
+   > This command generates a HelloWorld.class file if there are no errors.
 3. Run the program with:
    ```
    java HelloWorl
