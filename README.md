@@ -26,12 +26,12 @@ To start with Java development, you need to:
 **You can use any IDE**
 
 ### Option A: Visual Studio Code
-1. Download [Visual Studio Code].(https://code.visualstudio.com/)
+1. Download [Visual Studio Code.](https://code.visualstudio.com/)
 2. Open Extensions and install the **Java Extension Pack**.
 3. Create a new file called `HelloWorld.java`.
 
 ### Option B: IntelliJ IDEA
-1. Download [IntelliJ IDEA].(https://www.jetbrains.com/idea/download/?section=windows)
+1. Download [IntelliJ IDEA.](https://www.jetbrains.com/idea/download/?section=windows)
 2. Open IntelliJ IDEA and create a new Java project.
 3. IntelliJ will automatically create a `src` folder for your code.
 
