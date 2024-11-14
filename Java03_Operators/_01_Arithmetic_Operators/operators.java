@@ -26,9 +26,23 @@ public class operators {
         /* Unary operators */
 
         // Increment
+        int w = 5;
 
+        w++; //  Post increment
+        System.out.println(w);
+
+        ++w; // Pre increment
+        System.out.println(w);
 
 
         // Decrement
+        int q = 5;
+
+        q--; //  Post Decrement
+        System.out.println(q);
+
+        --q; // Pre Decrement
+        System.out.println(q);
+
     }
 }
